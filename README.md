@@ -48,12 +48,6 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB55DC790D670A8C
 </h3>
 
 
-
-
-
-
-## Hi there 👋
-
 <!--
 **johnrafaelgonzales06/johnrafaelgonzales06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
