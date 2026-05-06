@@ -44,7 +44,7 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB55DC790D670A8C
 
 <h1>You may reach me at:</h1>
 <h3>
-  <a>href="mailto:johnrafaelgonzales59@gmail.com">dsd</a>
+  Email: johnrafaelgonzales59@gmail.com
 </h3>
 
 
